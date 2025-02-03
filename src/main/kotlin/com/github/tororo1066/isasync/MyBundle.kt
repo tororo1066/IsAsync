@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.tororo1066.isasync
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
